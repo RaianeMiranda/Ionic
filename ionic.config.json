@@ -1,0 +1,7 @@
+{
+  "name": "RaianeApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
